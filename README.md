@@ -1,7 +1,7 @@
 # qwqology
 Something about QωQ
 --------------------------------------
-> 这是一些包括*可爱的*/*可崇拜的*(adorable)和*可回收的*(recyclable)/*可再生的*(renewable)/*可望而不可即的*(unattainable) **QωQ**的事情
+> 这是一些包括*可爱的*/*可崇拜的*(adorable)~~和*可回收的*(recyclable)/*可再生的*(renewable)/*可望而不可即的*(unattainable)~~**QωQ**的事情
 
 简称
 ## Q学！(qology)
